@@ -1,0 +1,29 @@
+body {
+  background-color: #84d5ff;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+textarea {
+  display: inline-block;
+  height: 300px;
+  width: 99%;
+}
+
+section {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+}
+
+input[type="submit"], input[type="reset"] {
+  font-size: 20px;
+}
+
+#output {
+  display: none;
+  margin-bottom: 50px;
+  margin-top: 25px;
+}
